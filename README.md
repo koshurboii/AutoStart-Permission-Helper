@@ -28,4 +28,24 @@ AutoStartPermissionHelper is an Android library that assists in checking for and
    if (isAutoStartPermissionAvailable) {
        boolean granted = autoStartPermissionHelper.getAutoStartPermission(this, true, false);
    }
-```
+
+
+## Install App demo apk
+[![Download AutoStartPermissionHelper App demo apk](https://img.shields.io/badge/Download%20MT%20Manager-Click%20%20here%20to%20download-brightgreen?style=for-the-badge&logo=android)](https://t.me/koshurboiiyt)
+
+## Contact and Social Media Accounts
+[![TELEGRAM](https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)
+
+[![INSTAGRAM](https://img.shields.io/badge/CONTACT-INSTAGRAM-darkred?style=for-the-badge&logo=instagram)](https://Instagram.com/koshurboii)
+
+
+[![YOUTUBE](https://img.shields.io/badge/SUBSCRIBE-YOUTUBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@koshurboii)
+
+
+[![WhatsApp](https://img.shields.io/badge/CONTACT-WhatsApp-randish?style=for-the-badge&logo=whatsapp)](https://wa.me/+13023645493)
+  ## important
+
+
+## License
+
+[![MIT](https://img.shields.io/badge/License-MIT-red)](https://github.com/koshurboii/AutoStart-Permission-Helper/blob/main/LICENSE) 
