@@ -1,6 +1,6 @@
 # AutoStartPermissionHelper
 
-AutoStartPermissionHelper is a handy Android library developed by Abrar Hussain Beigh (aka Koshur Boii) , designed to simplify the process of checking for and requesting auto-start permission on various Android devices. With this library, developers can seamlessly integrate auto-start permission handling into their Android applications, ensuring smooth user experiences across different device manufacturers.
+AutoStartPermissionHelper is a handy Android library developed by Abrar Hussain Beigh (aka Koshur Boii), designed to simplify the process of checking for and requesting auto-start permission on various Android devices. With this library, developers can seamlessly integrate auto-start permission handling into their Android applications, ensuring smooth user experiences across different device manufacturers.
 
 ## Overview
 
@@ -17,6 +17,15 @@ AutoStartPermissionHelper is an Android library that assists in checking for and
 1. **Integrating the Library**: Add the `AutoStartPermissionHelper` class to your Android project.
 
 2. **Checking for Permission**:
+
    ```java
    AutoStartPermissionHelper autoStartPermissionHelper = AutoStartPermissionHelper.getInstance();
-   boolean isPermissionAvailable = autoStartPermissionHelper.isAutoStartPermissionAvailable(context, false);
+		
+   // Check if the auto-start permission is available on the device
+   boolean isAutoStartPermissionAvailable = autoStartPermissionHelper.isAutoStartPermissionAvailable(this, false);
+   
+   // If the permission is available, request it
+   if (isAutoStartPermissionAvailable) {
+       boolean granted = autoStartPermissionHelper.getAutoStartPermission(this, true, false);
+   }
+```
