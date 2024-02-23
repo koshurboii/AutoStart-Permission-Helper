@@ -1,0 +1,33 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical">
+		<TextView
+			android:id="@+id/textview1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="Hello Buddy ^_"
+			android:textSize="16sp"
+			android:textColor="#000000" />
+		<TextView
+			android:id="@+id/textview2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="AutoStartPermissionHelper by Koshur Boii - Apk Demo Version\n\nDescription:\nAutoStartPermissionHelper is a valuable Android library crafted by Abrar Hussain Beigh, aka Koshur Boii. Its purpose is to streamline the process of checking and requesting auto-start permissions on various Android devices, ensuring a seamless user experience across different device manufacturers.\nDevelopers can effortlessly integrate auto-start permission handling into their Android applications with this library.\n\nVISIT:\nTelegram: (https://t.me/koshurboii)\nInstagram: (https://Instagram.com/koshurboii)\nGitHub: (https://github.com/koshurboii)"
+			android:textSize="14sp"
+			android:textColor="#000000"
+			android:autoLink="web" />
+	</LinearLayout>
+</LinearLayout>
