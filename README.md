@@ -31,7 +31,7 @@ AutoStartPermissionHelper is an Android library that assists in checking for and
 
 
 ## Install App demo apk
-[![Download AutoStartPermissionHelper App demo apk](https://img.shields.io/badge/Download%20MT%20Manager-Click%20%20here%20to%20download-brightgreen?style=for-the-badge&logo=android)](https://t.me/koshurboiiyt)
+[![Download AutoStartPermissionHelper App demo apk](https://img.shields.io/badge/Download%20Demo%20Apk-Click%20%20here%20to%20download-brightgreen?style=for-the-badge&logo=android)](https://t.me/koshurboiiyt)
 
 ## Contact and Social Media Accounts
 [![TELEGRAM](https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)
@@ -43,7 +43,6 @@ AutoStartPermissionHelper is an Android library that assists in checking for and
 
 
 [![WhatsApp](https://img.shields.io/badge/CONTACT-WhatsApp-randish?style=for-the-badge&logo=whatsapp)](https://wa.me/+13023645493)
-  ## important
 
 
 ## License
