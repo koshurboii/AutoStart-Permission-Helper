@@ -1,6 +1,6 @@
  package com.koshurboii.AutoStartPermissionHelper;
 /*
-package com.koshurboii.AutoStartPermissionHelper; with the actual package name of your project 
+package com.koshurboii.AutoStartPermissionHelper; with the actual package name of your project and yeah don't forget to give me proper credit. 
 */
  
 import android.content.ComponentName;
